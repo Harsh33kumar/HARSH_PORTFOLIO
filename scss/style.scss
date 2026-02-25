@@ -1449,9 +1449,8 @@ textarea.form-control {
 }
 
 
-
-
 #section-counter{
+	overflow: hidden;
 	position: relative;
 	z-index: 0;
 }
